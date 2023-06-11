@@ -1,0 +1,13 @@
+.navbuttons{
+    margin-right: 20px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    width: 130px;
+    font-size: 14px;
+}
+
+.navContainer{
+    margin-left: 20px;
+    margin-right: 20px;
+}
